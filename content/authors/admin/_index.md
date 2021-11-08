@@ -21,7 +21,7 @@ interests:
 - Assistive Technology
 - Neuroprosthetics
 - Human Machine Interfaces
-- Electromyography
+- Health Science
 - Computational Neuroscience
 
 # Education to show in About widget
@@ -72,7 +72,7 @@ email: "pranav.mamidanna@gmail.com"
 highlight_name: true
 ---
 
-I am broadly interested in building assistive and inclusive technology! To this end, I am currently developing closed-loop interfaces for EMG-driven hand prostheses by combining algorithms that faithfully decode user intention with intuitive tactile feedback.
+I am interested in building assistive and adaptive technology! To this end, I am currently developing closed-loop interfaces for EMG-driven hand prostheses by combining algorithms that faithfully decode user intention with intuitive tactile feedback.
 
 I am a PhD candidate in the [lab](https://www.neurorehabsystems.aau.dk) of [Strahinja Dosen](https://vbn.aau.dk/en/persons/113479) at the Health Science and Technology Department in Aalborg University, Denmark. I was previously a research assistant in the lab of [Matthias Bethge](https://www.bethgelab.org), where I worked on neural network models of the proprioceptive system with [Alexander Mathis](https://people.epfl.ch/alexander.mathis).
 
